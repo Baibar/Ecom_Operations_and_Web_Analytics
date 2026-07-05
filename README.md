@@ -9,8 +9,8 @@ A comprehensive, three-page interactive Power BI dashboard designed to bridge th
 > 📌 **Access the Full Project Portfolio:**
 > You can download the complete interactive files and high-resolution presentation formats from the official Google Drive folder linked below:
 > 
-> 👉 **[Download .PBIX Dashboard ([Google Drive Link](https://drive.google.com/file/d/1nBjmy1gXLuSlKWkQK5WRg-HE4hJxYnWg/view?usp=drive_link))**
->     **[Download PDF Presentation ([Google Drive Link](https://drive.google.com/file/d/193092AkRXwS8sEv_bVyitDgC0E90IoxZ/view?usp=drive_link))**
+> 👉 **[Download .PBIX Dashboard ([Dashboard](https://drive.google.com/file/d/1nBjmy1gXLuSlKWkQK5WRg-HE4hJxYnWg/view?usp=drive_link))**
+>     **[Download PDF Presentation ([Presentation](https://drive.google.com/file/d/193092AkRXwS8sEv_bVyitDgC0E90IoxZ/view?usp=drive_link))**
 > *   `Ecom_Operations_and_Web_Analytics.pbix` — The complete Power BI Desktop model to inspect relationships, data transforms, and DAX calculations.
 > *   `Ecom_Operations_and_Web_Analytics_Presentation.pdf` — A static, executive-ready presentation of the dashboard pages for instant viewing.
 

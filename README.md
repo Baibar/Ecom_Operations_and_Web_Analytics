@@ -9,14 +9,14 @@ A comprehensive, three-page interactive Power BI dashboard designed to bridge th
 > 📌 **Access the Full Project Portfolio:**
 > You can download the complete interactive files and high-resolution presentation formats from the official Google Drive folder linked below:
 > 
-> 👉 **[Download .PBIX Dashboard ([Dashboard](https://drive.google.com/file/d/1nBjmy1gXLuSlKWkQK5WRg-HE4hJxYnWg/view?usp=drive_link))**
->     **[Download PDF Presentation ([Presentation](https://drive.google.com/file/d/193092AkRXwS8sEv_bVyitDgC0E90IoxZ/view?usp=drive_link))**
+> 👉 **Download .PBIX Dashboard ([Dashboard](https://drive.google.com/file/d/1nBjmy1gXLuSlKWkQK5WRg-HE4hJxYnWg/view?usp=drive_link))**
+>     **Download PDF Presentation ([Presentation](https://drive.google.com/file/d/193092AkRXwS8sEv_bVyitDgC0E90IoxZ/view?usp=drive_link))**
 > *   `Ecom_Operations_and_Web_Analytics.pbix` — The complete Power BI Desktop model to inspect relationships, data transforms, and DAX calculations.
 > *   `Ecom_Operations_and_Web_Analytics_Presentation.pdf` — A static, executive-ready presentation of the dashboard pages for instant viewing.
 
 ---
 
-## 📊 Page 1: Product Performance & Sales Intelligence
+## 📊 Product Performance & Sales Intelligence
 
 ### 🎯 Business Objective
 Designed for Chief Commercial Officers (CCOs) and Category Managers to drive strategic assortment management. The interface isolates high-margin revenue drivers from dead stock that ties up working capital, while validating pricing strategy health.
@@ -35,7 +35,7 @@ Built using complex conditional logic and robust DAX statistical measures:
 
 ---
 
-## 🚛 Page 2: Logistics & Supply Chain Operations
+## 🚛 Logistics & Supply Chain Operations
 
 ### 🎯 Business Objective
 Engineered for Operations Directors and Supply Chain Managers to audit carrier fulfillment efficiency, identify bottlenecks in the distribution network, and monitor real-time order backlogs.
@@ -51,7 +51,7 @@ Engineered for Operations Directors and Supply Chain Managers to audit carrier f
 
 ---
 
-## 🌐 Page 3: Digital Marketing & Web Analytics
+## 🌐 Digital Marketing & Web Analytics
 
 ### 🎯 Business Objective
 Built for Chief Marketing Officers (CMOs) and Performance Marketers to audit traffic acquisition quality, evaluate customer behavior patterns, and optimize advertising budget allocation.
